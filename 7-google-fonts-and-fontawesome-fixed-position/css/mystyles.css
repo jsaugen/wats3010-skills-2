@@ -1,0 +1,26 @@
+p:nth-child(even) {
+    font-family: 'Dosis', sans-serif;
+}
+
+p:nth-child(odd) {
+    font-family: 'Staatliches', cursive;
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+}
+
+.home {
+    position: fixed;
+    right: 5%;
+    bottom: 5%;
+  }
+  .fa-home {
+    font-size: 3rem;
+    color: red;
+  }
+  .fa-home:hover {
+    font-size: 5rem;
+    color:blue;
+  }
+  
