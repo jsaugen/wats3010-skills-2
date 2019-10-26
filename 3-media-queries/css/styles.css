@@ -24,16 +24,15 @@ li {
     border: 1px solid darkgray;
 }
 
-
 @media only screen and (min-width: 700px) {
     body {
         background-color: lightblue;
     }
-}
 
-li {
-    width: 19%;
-    display: inline-block;
+    li {
+        width: 19%;
+        display: inline-block;
+    }
 }
 
 :root {
@@ -52,5 +51,5 @@ li:nth-child(even) {
 
 li:nth-child(odd) {
     color: var(--odd-color);
-    background-color: var(--odd-bg-color)
+    background-color: var(--odd-bg-color);
 }
