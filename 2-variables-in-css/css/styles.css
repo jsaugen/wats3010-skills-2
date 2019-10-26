@@ -28,11 +28,11 @@ li {
 }
 
 :root {
-    --odd-color: #d46843;
-    --odd-bg-color: #2A150D;
+    --odd-color:#7FFFD4;
+    --odd-bg-color: #413E3E;
 
     --even-color: white;
-    --even-bg-color: black;
+    --even-bg-color: #5C0819;
 }
 
 
